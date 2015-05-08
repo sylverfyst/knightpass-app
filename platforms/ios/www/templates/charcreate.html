@@ -1,0 +1,16 @@
+<ion-view view-title="Character" class="tab-view">
+    <ion-content class="padding">
+        <br />
+        <h1>Create Your Character:</h1>
+        <br />
+        <h3>Choose Your Class</h3>
+        <div class="list list-inset">
+            <label class="item item-radio" name="options" value="sword" ng-model="data.classVar"><input type="radio" name="options" value="sword" ng-model="data.classVar" class="ng-pristine ng-untouched ng-valid"><div class="item-content disable-pointer-events" ng-transclude="">Sword</div><i class="radio-icon disable-pointer-events icon ion-checkmark"></i></label>
+            <label class="item item-radio" name="options" value="sword" ng-model="data.classVar"><input type="radio" name="options" value="sword" ng-model="data.classVar" class="ng-pristine ng-untouched ng-valid"><div class="item-content disable-pointer-events" ng-transclude="">Axe</div><i class="radio-icon disable-pointer-events icon ion-checkmark"></i></label>
+            <label class="item item-radio" name="options" value="sword" ng-model="data.classVar"><input type="radio" name="options" value="sword" ng-model="data.classVar" class="ng-pristine ng-untouched ng-valid"><div class="item-content disable-pointer-events" ng-transclude="">Lance</div><i class="radio-icon disable-pointer-events icon ion-checkmark"></i></label>
+        </div>
+        <button class="button button-block button-assertive" ng-click="createChar()">
+                Create Character
+        </button>
+    </ion-content>
+</ion-view>

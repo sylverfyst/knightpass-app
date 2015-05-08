@@ -35,6 +35,16 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
     templateUrl: "templates/signup.html",
     controller: "SignupCtrl"  
   })
+  .state('victory', {
+    url:"/victory",
+    templateUrl: "templates/victory.html",
+    controller: "WinCtrl"  
+  })
+  .state('defeat', {
+    url:"/defeat",
+    templateUrl: "templates/defeat.html",
+    controller: "LoseCtrl"  
+  })
   // setup an abstract state for the tabs directive
   .state('tab', {
     url: "/tab",

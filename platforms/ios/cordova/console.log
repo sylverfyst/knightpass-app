@@ -210,3 +210,19 @@
 2015-05-06 20:21:01.483 knightpass-app[5460:511530] [CDVTimer][TotalPluginStartup] 0.357985ms
 2015-05-06 20:21:01.544 knightpass-app[5460:511530] Resetting plugins due to page load.
 2015-05-06 20:21:01.972 knightpass-app[5460:511530] Finished load of: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Bundle/Application/813DA948-BCD2-47A8-AD1B-13DE520C8947/knightpass-app.app/www/index.html#/login
+2015-05-08 10:18:55.740 knightpass-app[1118:15377] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Data/Application/D7F1FF78-50E7-4723-B3CE-34A0661F1159/Library/Cookies/Cookies.binarycookies
+2015-05-08 10:18:56.017 knightpass-app[1118:15377] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-08 10:18:56.017 knightpass-app[1118:15377] Multi-tasking -> Device: YES, App: YES
+2015-05-08 10:18:56.037 knightpass-app[1118:15377] Unlimited access to network resources
+2015-05-08 10:18:56.374 knightpass-app[1118:15377] [CDVTimer][keyboard] 0.056982ms
+2015-05-08 10:18:56.374 knightpass-app[1118:15377] [CDVTimer][TotalPluginStartup] 0.254035ms
+2015-05-08 10:18:56.612 knightpass-app[1118:15377] Resetting plugins due to page load.
+2015-05-08 10:18:56.856 knightpass-app[1118:15377] Finished load of: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Bundle/Application/3FB29C63-F8C6-4437-BDC3-DD97831C6075/knightpass-app.app/www/index.html
+2015-05-08 10:23:05.357 knightpass-app[1390:18388] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Data/Application/4D100078-7E35-4D96-9E1A-5ED177BEB990/Library/Cookies/Cookies.binarycookies
+2015-05-08 10:23:05.490 knightpass-app[1390:18388] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-08 10:23:05.491 knightpass-app[1390:18388] Multi-tasking -> Device: YES, App: YES
+2015-05-08 10:23:05.501 knightpass-app[1390:18388] Unlimited access to network resources
+2015-05-08 10:23:05.617 knightpass-app[1390:18388] [CDVTimer][keyboard] 0.083029ms
+2015-05-08 10:23:05.617 knightpass-app[1390:18388] [CDVTimer][TotalPluginStartup] 0.346005ms
+2015-05-08 10:23:05.685 knightpass-app[1390:18388] Resetting plugins due to page load.
+2015-05-08 10:23:05.861 knightpass-app[1390:18388] Finished load of: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Bundle/Application/D16A0045-91ED-4DB7-88E6-FECA1B178A3F/knightpass-app.app/www/index.html

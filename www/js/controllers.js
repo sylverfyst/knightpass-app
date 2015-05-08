@@ -161,7 +161,7 @@ angular.module('starter.controllers', ['firebase'])
         
         
     })
-    .controller('FightCtrl', function ($scope) {
+    .controller('FightCtrl', function ($scope, $state) {
         var firebaseobj = new Firebase("https://knightpass.firebaseio.com/users"), username = window.localStorage['username'], userref = firebaseobj.child(username);
         $scope.images = {};
         $scope.images2 = {};
@@ -229,7 +229,9 @@ angular.module('starter.controllers', ['firebase'])
                 });
             };
             $scope.evade(compobj);
-            while (playerhealth > 0 && comphealth > 0) {
+            $scope.hp1 = 100;
+            $scope.hp2 = 100;
+            $scope.hit = function() {
                 console.log("comp spd: " + tempSpd + " Player Luc: " + playerLuc);
                 if (parseInt(tempSpd) > parseInt(playerLuc)){
                     console.log("PlayerStr: " + playerStr);
@@ -238,6 +240,7 @@ angular.module('starter.controllers', ['firebase'])
                     console.log("Player attack: " + parseInt(playerAttack));
                     playerDefense = parseInt(playerDef) + parseInt(playerLuc), compDefense = parseInt(comp.Def) + parseInt(comp.Luc);
                     playerhealth = parseInt(playerhealth) - parseInt(compAttack) - parseInt(playerDefense) * parseInt(2);
+                    $scope.hp1 = playerhealth;
                     console.log("player health: " + playerhealth);
                     playerLuc = parseInt(playerLuc) + parseInt(1);
                 } else {
@@ -247,13 +250,15 @@ angular.module('starter.controllers', ['firebase'])
                     playerDefense = parseInt(playerDef) + parseInt(playerLuc);
                     compDefense = parseInt(comp.Def) + parseInt(comp.Luc);
                     comphealth = parseInt(comphealth) - parseInt(playerAttack) - parseInt(compDefense) * parseInt(2);
+                    $scope.hp2 = comphealth;
                     console.log("comp health: " + comphealth);
                     tempSpd = parseInt(tempSpd) + parseInt(1);
                 }    
-            }
+            
             if (playerhealth <= 0) {
                 playerxp = playerxp + 1;
                 console.log("you lose" + "current xp: " + playerxp);
+                $state.go('defeat');
             }
             else if (comphealth <= 0) {
                 console.log("you win!");
@@ -267,6 +272,8 @@ angular.module('starter.controllers', ['firebase'])
                     }
                 };
                 userref.update({ xp: playerxp, nextlvl: nextone}, onComplete);
+                $state.go('victory');
+            }
             }
         };
         $scope.xpnow = function(userref) { 
@@ -308,4 +315,16 @@ angular.module('starter.controllers', ['firebase'])
             firebaseobj.unauth();
             $state.go('login');
         };
+    })
+    .controller('WinCtrl', function ($scope, $firebaseAuth, $state) {
+        $scope.stats = function () {
+            $state.go('tab.stats');
+        };
+    })
+    .controller('LoseCtrl', function ($scope, $firebaseAuth, $state) {
+        $scope.stats = function () {
+            $state.go('tab.stats');
+        };
     });
+    
+    
