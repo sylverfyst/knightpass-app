@@ -1,0 +1,24 @@
+<ion-view view-title="Sign Up" class="tab-view">
+    <ion-content class="padding">
+        <img class="logo" src="img/logo-top.png" />
+        <div class="list list-inset">
+            <label class="item item-input">
+                <input type="text" placeholder="Username" ng-model="signup.username">
+            </label>
+            <label class="item item-input">
+                <input type="password" placeholder="Password" ng-model="signup.password">
+            </label>
+            <ion-radio ng-repeat="item in options"
+                   ng-value="item.class"
+                   ng-model="data.options"
+                   name="server-side">
+                    {{ item.class }}
+            </ion-radio>
+        </div>
+        <div>
+            <button class="button button-block button-assertive" ng-click="signup()">
+                Sign Up
+            </button>
+        </div>
+    </ion-content>
+</ion-view>

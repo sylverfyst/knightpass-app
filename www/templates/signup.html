@@ -1,0 +1,22 @@
+<ion-view view-title="Sign Up" class="tab-view">
+    <ion-content class="padding">
+        <img class="logo" src="img/logo-top.png" />
+        <div class="list list-inset">
+            <label class="item item-input">
+                <input type="text" placeholder="Username" ng-model="signup.username">
+            </label>
+            <label class="item item-input">
+                <input type="password" placeholder="Password" ng-model="signup.password">
+            </label>
+            
+           <ion-radio name="options" value="sword" ng-model="data.classVar">Sword</ion-radio>
+           <ion-radio name="options" value="axe" ng-model="data.classVar">Axe</ion-radio>
+           <ion-radio name="options" value="lance" ng-model="data.classVar">Lance</ion-radio>
+        </div>
+        <div>
+            <button class="button button-block button-assertive" ng-click="signup()">
+                Sign Up
+            </button>
+        </div>
+    </ion-content>
+</ion-view>

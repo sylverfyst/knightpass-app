@@ -1,0 +1,212 @@
+2015-04-27 16:46:16.998 knightpass-app[15968:622293] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Data/Application/B30DA97C-DE4B-46A8-BA73-802D95ECBAE6/Library/Cookies/Cookies.binarycookies
+2015-04-27 16:46:17.580 knightpass-app[15968:622293] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-27 16:46:17.580 knightpass-app[15968:622293] Multi-tasking -> Device: YES, App: YES
+2015-04-27 16:46:17.607 knightpass-app[15968:622293] Unlimited access to network resources
+2015-04-27 16:46:17.991 knightpass-app[15968:622293] [CDVTimer][keyboard] 0.052989ms
+2015-04-27 16:46:17.991 knightpass-app[15968:622293] [CDVTimer][TotalPluginStartup] 0.245988ms
+2015-04-27 16:46:18.635 knightpass-app[15968:622293] Resetting plugins due to page load.
+2015-04-27 16:46:19.015 knightpass-app[15968:622293] Finished load of: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Bundle/Application/5CD98953-72CA-480E-9096-7D9FA04A6506/knightpass-app.app/www/index.html
+2015-04-27 16:46:26.147 knightpass-app[15968:622369] Terminating since there is no system app.
+2015-04-27 17:24:00.509 knightpass-app[16314:634097] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Data/Application/A6C3F93E-0084-4ED3-8BBC-84739C1AA5D1/Library/Cookies/Cookies.binarycookies
+2015-04-27 17:24:00.903 knightpass-app[16314:634097] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-27 17:24:00.904 knightpass-app[16314:634097] Multi-tasking -> Device: YES, App: YES
+2015-04-27 17:24:00.919 knightpass-app[16314:634097] Unlimited access to network resources
+2015-04-27 17:24:01.295 knightpass-app[16314:634097] [CDVTimer][keyboard] 0.078022ms
+2015-04-27 17:24:01.295 knightpass-app[16314:634097] [CDVTimer][TotalPluginStartup] 0.379026ms
+2015-04-27 17:24:01.724 knightpass-app[16314:634097] Resetting plugins due to page load.
+2015-04-27 17:24:02.005 knightpass-app[16314:634097] Finished load of: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Bundle/Application/FE3C12A4-B24E-4931-95C9-B8A758B2762A/knightpass-app.app/www/index.html
+2015-04-27 17:27:21.340 knightpass-app[16571:636417] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Data/Application/01C16999-10D8-4B15-8660-348E7D8B3309/Library/Cookies/Cookies.binarycookies
+2015-04-27 17:27:21.465 knightpass-app[16571:636417] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-27 17:27:21.465 knightpass-app[16571:636417] Multi-tasking -> Device: YES, App: YES
+2015-04-27 17:27:21.467 knightpass-app[16571:636417] Unlimited access to network resources
+2015-04-27 17:27:21.602 knightpass-app[16571:636417] [CDVTimer][keyboard] 0.087023ms
+2015-04-27 17:27:21.602 knightpass-app[16571:636417] [CDVTimer][TotalPluginStartup] 0.496030ms
+2015-04-27 17:27:21.688 knightpass-app[16571:636417] Resetting plugins due to page load.
+2015-04-27 17:27:22.049 knightpass-app[16571:636417] Finished load of: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Bundle/Application/3D283866-ADD9-4159-8FB7-552A08B39036/knightpass-app.app/www/index.html
+2015-04-27 17:27:28.940 knightpass-app[16571:636606] Terminating since there is no system app.
+2015-04-27 17:29:27.024 knightpass-app[16801:637841] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Data/Application/7AC7FBE9-4BAF-446E-9E29-7E2C0BC1561E/Library/Cookies/Cookies.binarycookies
+2015-04-27 17:29:27.113 knightpass-app[16801:637841] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-27 17:29:27.113 knightpass-app[16801:637841] Multi-tasking -> Device: YES, App: YES
+2015-04-27 17:29:27.115 knightpass-app[16801:637841] Unlimited access to network resources
+2015-04-27 17:29:27.186 knightpass-app[16801:637841] [CDVTimer][keyboard] 0.050008ms
+2015-04-27 17:29:27.186 knightpass-app[16801:637841] [CDVTimer][TotalPluginStartup] 0.211954ms
+2015-04-27 17:29:27.256 knightpass-app[16801:637841] Resetting plugins due to page load.
+2015-04-27 17:29:27.439 knightpass-app[16801:637841] Finished load of: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Bundle/Application/CB219BF2-B6FB-418F-8DBD-0C4FDCE40D5A/knightpass-app.app/www/index.html
+2015-04-27 17:29:33.114 knightpass-app[16801:637965] Terminating since there is no system app.
+2015-04-27 17:31:29.976 knightpass-app[17039:639206] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Data/Application/505EFC32-C823-4055-B821-BDB89AEB874B/Library/Cookies/Cookies.binarycookies
+2015-04-27 17:31:30.080 knightpass-app[17039:639206] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-27 17:31:30.081 knightpass-app[17039:639206] Multi-tasking -> Device: YES, App: YES
+2015-04-27 17:31:30.084 knightpass-app[17039:639206] Unlimited access to network resources
+2015-04-27 17:31:30.187 knightpass-app[17039:639206] [CDVTimer][keyboard] 0.054002ms
+2015-04-27 17:31:30.187 knightpass-app[17039:639206] [CDVTimer][TotalPluginStartup] 0.213027ms
+2015-04-27 17:31:30.282 knightpass-app[17039:639206] Resetting plugins due to page load.
+2015-04-27 17:31:30.534 knightpass-app[17039:639206] Finished load of: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Bundle/Application/7C0573C0-0B54-4710-ACE5-F1F25CEB98AC/knightpass-app.app/www/index.html
+2015-04-27 17:32:04.179 knightpass-app[17273:640198] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Data/Application/163B3908-0CF2-4745-B369-A8D2F2DB74B6/Library/Cookies/Cookies.binarycookies
+2015-04-27 17:32:04.349 knightpass-app[17273:640198] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-27 17:32:04.350 knightpass-app[17273:640198] Multi-tasking -> Device: YES, App: YES
+2015-04-27 17:32:04.352 knightpass-app[17273:640198] Unlimited access to network resources
+2015-04-27 17:32:04.471 knightpass-app[17273:640198] [CDVTimer][keyboard] 0.090003ms
+2015-04-27 17:32:04.471 knightpass-app[17273:640198] [CDVTimer][TotalPluginStartup] 0.358045ms
+2015-04-27 17:32:04.689 knightpass-app[17273:640198] Resetting plugins due to page load.
+2015-04-27 17:32:04.979 knightpass-app[17273:640198] Finished load of: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Bundle/Application/474673D0-FADE-499B-89F1-A7B6E2DC7253/knightpass-app.app/www/index.html
+2015-04-27 17:40:01.353 knightpass-app[17943:644714] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Data/Application/A0AC8A43-5D6E-40BF-9E3F-817E29AAB0C3/Library/Cookies/Cookies.binarycookies
+2015-04-27 17:40:01.478 knightpass-app[17943:644714] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-27 17:40:01.479 knightpass-app[17943:644714] Multi-tasking -> Device: YES, App: YES
+2015-04-27 17:40:01.481 knightpass-app[17943:644714] Unlimited access to network resources
+2015-04-27 17:40:01.589 knightpass-app[17943:644714] [CDVTimer][keyboard] 0.105023ms
+2015-04-27 17:40:01.589 knightpass-app[17943:644714] [CDVTimer][TotalPluginStartup] 0.407040ms
+2015-04-27 17:40:01.646 knightpass-app[17943:644714] Resetting plugins due to page load.
+2015-04-27 17:40:01.878 knightpass-app[17943:644714] Finished load of: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Bundle/Application/B787A8D2-FEA5-4183-83FC-104FD3C3A787/knightpass-app.app/www/index.html#/tab/dash
+2015-04-27 17:44:55.396 knightpass-app[18184:646715] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Data/Application/03C437D2-5425-4921-B2A4-79782C4CAE76/Library/Cookies/Cookies.binarycookies
+2015-04-27 17:44:55.819 knightpass-app[18184:646715] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-27 17:44:55.820 knightpass-app[18184:646715] Multi-tasking -> Device: YES, App: YES
+2015-04-27 17:44:55.835 knightpass-app[18184:646715] Unlimited access to network resources
+2015-04-27 17:44:56.202 knightpass-app[18184:646715] [CDVTimer][keyboard] 0.059009ms
+2015-04-27 17:44:56.202 knightpass-app[18184:646715] [CDVTimer][TotalPluginStartup] 0.234008ms
+2015-04-27 17:44:56.506 knightpass-app[18184:646715] Resetting plugins due to page load.
+2015-04-27 17:44:56.848 knightpass-app[18184:646715] Finished load of: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Bundle/Application/492F13EB-37BC-4CD6-AB9A-FB546A94489D/knightpass-app.app/www/index.html#/tab/dash
+2015-04-27 17:47:35.284 knightpass-app[18399:648285] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Data/Application/5E810936-60EC-40B2-9C7E-D8B548EE043C/Library/Cookies/Cookies.binarycookies
+2015-04-27 17:47:35.394 knightpass-app[18399:648285] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-27 17:47:35.394 knightpass-app[18399:648285] Multi-tasking -> Device: YES, App: YES
+2015-04-27 17:47:35.396 knightpass-app[18399:648285] Unlimited access to network resources
+2015-04-27 17:47:35.484 knightpass-app[18399:648285] [CDVTimer][keyboard] 0.050008ms
+2015-04-27 17:47:35.484 knightpass-app[18399:648285] [CDVTimer][TotalPluginStartup] 0.208020ms
+2015-04-27 17:47:35.640 knightpass-app[18399:648285] Resetting plugins due to page load.
+2015-04-27 17:47:35.838 knightpass-app[18399:648285] Finished load of: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Bundle/Application/42D422DC-5762-47C8-95B8-5723FF8A7AAA/knightpass-app.app/www/index.html#/tab/dash
+2015-04-27 17:48:00.549 knightpass-app[18584:648861] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Data/Application/6EBA1186-E9B9-4882-85AA-B850D7C32BEE/Library/Cookies/Cookies.binarycookies
+2015-04-27 17:48:00.677 knightpass-app[18584:648861] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-27 17:48:00.678 knightpass-app[18584:648861] Multi-tasking -> Device: YES, App: YES
+2015-04-27 17:48:00.688 knightpass-app[18584:648861] Unlimited access to network resources
+2015-04-27 17:48:00.790 knightpass-app[18584:648861] [CDVTimer][keyboard] 0.064969ms
+2015-04-27 17:48:00.790 knightpass-app[18584:648861] [CDVTimer][TotalPluginStartup] 0.271976ms
+2015-04-27 17:48:00.855 knightpass-app[18584:648861] Resetting plugins due to page load.
+2015-04-27 17:48:01.149 knightpass-app[18584:648861] Finished load of: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Bundle/Application/D1F7181F-144C-460A-A348-78709ADFBBEF/knightpass-app.app/www/index.html#/tab/dash
+2015-04-27 17:49:47.773 knightpass-app[18776:649743] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Data/Application/F25267F6-37B7-4B46-9192-FF72CAAF0B83/Library/Cookies/Cookies.binarycookies
+2015-04-27 17:49:47.850 knightpass-app[18776:649743] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-27 17:49:47.851 knightpass-app[18776:649743] Multi-tasking -> Device: YES, App: YES
+2015-04-27 17:49:47.853 knightpass-app[18776:649743] Unlimited access to network resources
+2015-04-27 17:49:47.945 knightpass-app[18776:649743] [CDVTimer][keyboard] 0.082970ms
+2015-04-27 17:49:47.945 knightpass-app[18776:649743] [CDVTimer][TotalPluginStartup] 0.334024ms
+2015-04-27 17:49:48.040 knightpass-app[18776:649743] Resetting plugins due to page load.
+2015-04-27 17:49:48.268 knightpass-app[18776:649743] Finished load of: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Bundle/Application/597DDF9A-9914-4F43-9A43-4F8753FA4174/knightpass-app.app/www/index.html#/tab/dash
+2015-04-27 17:50:28.746 knightpass-app[18961:650468] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Data/Application/3BEDAE22-E015-4031-936E-E843848F09D6/Library/Cookies/Cookies.binarycookies
+2015-04-27 17:50:28.938 knightpass-app[18961:650468] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-27 17:50:28.939 knightpass-app[18961:650468] Multi-tasking -> Device: YES, App: YES
+2015-04-27 17:50:28.951 knightpass-app[18961:650468] Unlimited access to network resources
+2015-04-27 17:50:29.085 knightpass-app[18961:650468] [CDVTimer][keyboard] 0.117004ms
+2015-04-27 17:50:29.085 knightpass-app[18961:650468] [CDVTimer][TotalPluginStartup] 0.433981ms
+2015-04-27 17:50:29.161 knightpass-app[18961:650468] Resetting plugins due to page load.
+2015-04-27 17:50:29.423 knightpass-app[18961:650468] Finished load of: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Bundle/Application/44486B27-8A6B-46AF-9A0D-9102F5E3BE7F/knightpass-app.app/www/index.html#/tab/dash
+2015-04-27 17:51:19.763 knightpass-app[19150:651200] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Data/Application/D838D9B8-A649-474B-B0E7-8E0669E3EC49/Library/Cookies/Cookies.binarycookies
+2015-04-27 17:51:19.873 knightpass-app[19150:651200] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-27 17:51:19.874 knightpass-app[19150:651200] Multi-tasking -> Device: YES, App: YES
+2015-04-27 17:51:19.885 knightpass-app[19150:651200] Unlimited access to network resources
+2015-04-27 17:51:19.977 knightpass-app[19150:651200] [CDVTimer][keyboard] 0.052035ms
+2015-04-27 17:51:19.977 knightpass-app[19150:651200] [CDVTimer][TotalPluginStartup] 0.220001ms
+2015-04-27 17:51:20.033 knightpass-app[19150:651200] Resetting plugins due to page load.
+2015-04-27 17:51:20.247 knightpass-app[19150:651200] Finished load of: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Bundle/Application/9EB0B9D4-BA9E-4FC2-848A-EBFEE96B0F0C/knightpass-app.app/www/index.html#/tab/dash
+2015-04-27 17:51:39.293 knightpass-app[19334:651718] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Data/Application/9978A277-4FD6-474C-967E-671B518088B1/Library/Cookies/Cookies.binarycookies
+2015-04-27 17:51:39.416 knightpass-app[19334:651718] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-27 17:51:39.416 knightpass-app[19334:651718] Multi-tasking -> Device: YES, App: YES
+2015-04-27 17:51:39.426 knightpass-app[19334:651718] Unlimited access to network resources
+2015-04-27 17:51:39.517 knightpass-app[19334:651718] [CDVTimer][keyboard] 0.057995ms
+2015-04-27 17:51:39.517 knightpass-app[19334:651718] [CDVTimer][TotalPluginStartup] 0.240028ms
+2015-04-27 17:51:39.572 knightpass-app[19334:651718] Resetting plugins due to page load.
+2015-04-27 17:51:39.775 knightpass-app[19334:651718] Finished load of: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Bundle/Application/B84DB3DE-BD7B-4202-AD69-DF768052B036/knightpass-app.app/www/index.html#/tab/dash
+2015-04-27 17:52:14.389 knightpass-app[19519:652304] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Data/Application/F5AC2818-BEF4-489E-B0AA-DD23681B336F/Library/Cookies/Cookies.binarycookies
+2015-04-27 17:52:14.445 knightpass-app[19519:652304] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-27 17:52:14.446 knightpass-app[19519:652304] Multi-tasking -> Device: YES, App: YES
+2015-04-27 17:52:14.448 knightpass-app[19519:652304] Unlimited access to network resources
+2015-04-27 17:52:14.523 knightpass-app[19519:652304] [CDVTimer][keyboard] 0.052035ms
+2015-04-27 17:52:14.523 knightpass-app[19519:652304] [CDVTimer][TotalPluginStartup] 0.216007ms
+2015-04-27 17:52:14.572 knightpass-app[19519:652304] Resetting plugins due to page load.
+2015-04-27 17:52:14.764 knightpass-app[19519:652304] Finished load of: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Bundle/Application/6363D1A2-3EF5-4D27-9E39-520A8F848C25/knightpass-app.app/www/index.html#/tab/dash
+2015-04-27 17:54:27.403 knightpass-app[19719:653485] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Data/Application/4803060B-B58F-4777-B9D9-BA265C4AEA9E/Library/Cookies/Cookies.binarycookies
+2015-04-27 17:54:27.532 knightpass-app[19719:653485] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-27 17:54:27.533 knightpass-app[19719:653485] Multi-tasking -> Device: YES, App: YES
+2015-04-27 17:54:27.535 knightpass-app[19719:653485] Unlimited access to network resources
+2015-04-27 17:54:27.674 knightpass-app[19719:653485] [CDVTimer][keyboard] 0.054002ms
+2015-04-27 17:54:27.674 knightpass-app[19719:653485] [CDVTimer][TotalPluginStartup] 0.217974ms
+2015-04-27 17:54:27.753 knightpass-app[19719:653485] Resetting plugins due to page load.
+2015-04-27 17:54:27.969 knightpass-app[19719:653485] Finished load of: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Bundle/Application/3F3B4F0A-EDF5-4C6E-BF7B-D182530774D1/knightpass-app.app/www/index.html#/tab/dash
+2015-04-27 18:03:13.502 knightpass-app[19719:657682] Terminating since there is no system app.
+2015-04-27 18:04:30.980 knightpass-app[20000:658796] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Data/Application/0636290E-8249-416C-947F-50D200364BE3/Library/Cookies/Cookies.binarycookies
+2015-04-27 18:04:31.151 knightpass-app[20000:658796] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-27 18:04:31.151 knightpass-app[20000:658796] Multi-tasking -> Device: YES, App: YES
+2015-04-27 18:04:31.153 knightpass-app[20000:658796] Unlimited access to network resources
+2015-04-27 18:04:31.233 knightpass-app[20000:658796] [CDVTimer][keyboard] 0.052989ms
+2015-04-27 18:04:31.234 knightpass-app[20000:658796] [CDVTimer][TotalPluginStartup] 0.223994ms
+2015-04-27 18:04:31.420 knightpass-app[20000:658796] Resetting plugins due to page load.
+2015-04-27 18:04:31.908 knightpass-app[20000:658796] Finished load of: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Bundle/Application/B2A6D491-3D69-49C3-9864-52FFD6CFBEA1/knightpass-app.app/www/index.html
+2015-04-27 18:04:34.943 knightpass-app[20000:658876] Communications error: <OS_xpc_error: <error: 0x2e075f4> { count = 1, contents =
+	"XPCErrorDescription" => <string: 0x2e0783c> { length = 22, contents = "Connection interrupted" }
+}>
+2015-04-27 18:04:59.292 knightpass-app[20233:659792] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Data/Application/9489C725-715E-4E12-8A29-35EB4053CD5C/Library/Cookies/Cookies.binarycookies
+2015-04-27 18:04:59.439 knightpass-app[20233:659792] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-27 18:04:59.440 knightpass-app[20233:659792] Multi-tasking -> Device: YES, App: YES
+2015-04-27 18:04:59.449 knightpass-app[20233:659792] Unlimited access to network resources
+2015-04-27 18:04:59.558 knightpass-app[20233:659792] [CDVTimer][keyboard] 0.084043ms
+2015-04-27 18:04:59.558 knightpass-app[20233:659792] [CDVTimer][TotalPluginStartup] 0.342011ms
+2015-04-27 18:04:59.630 knightpass-app[20233:659792] Resetting plugins due to page load.
+2015-04-27 18:04:59.797 knightpass-app[20233:659792] Finished load of: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Bundle/Application/866D698A-3638-4D7F-8EA1-5274C92D9B25/knightpass-app.app/www/index.html
+2015-04-27 18:05:54.155 knightpass-app[20430:660715] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Data/Application/C6DF54CD-AB64-487C-A7FC-80FB521CE090/Library/Cookies/Cookies.binarycookies
+2015-04-27 18:05:54.284 knightpass-app[20430:660715] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-27 18:05:54.284 knightpass-app[20430:660715] Multi-tasking -> Device: YES, App: YES
+2015-04-27 18:05:54.295 knightpass-app[20430:660715] Unlimited access to network resources
+2015-04-27 18:05:54.424 knightpass-app[20430:660715] [CDVTimer][keyboard] 0.063956ms
+2015-04-27 18:05:54.425 knightpass-app[20430:660715] [CDVTimer][TotalPluginStartup] 0.373960ms
+2015-04-27 18:05:54.515 knightpass-app[20430:660715] Resetting plugins due to page load.
+2015-04-27 18:05:54.867 knightpass-app[20430:660715] Finished load of: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Bundle/Application/2BEF4CC9-D991-4C8A-B03A-EED095A9C2A5/knightpass-app.app/www/index.html#/tab/dash
+2015-04-27 18:08:54.147 knightpass-app[20635:662347] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Data/Application/EE718B9F-AB46-4BFB-A783-662155B21F24/Library/Cookies/Cookies.binarycookies
+2015-04-27 18:08:54.254 knightpass-app[20635:662347] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-27 18:08:54.254 knightpass-app[20635:662347] Multi-tasking -> Device: YES, App: YES
+2015-04-27 18:08:54.256 knightpass-app[20635:662347] Unlimited access to network resources
+2015-04-27 18:08:54.340 knightpass-app[20635:662347] [CDVTimer][keyboard] 0.052989ms
+2015-04-27 18:08:54.340 knightpass-app[20635:662347] [CDVTimer][TotalPluginStartup] 0.227988ms
+2015-04-27 18:08:54.503 knightpass-app[20635:662347] Resetting plugins due to page load.
+2015-04-27 18:08:54.738 knightpass-app[20635:662347] Finished load of: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Bundle/Application/42D4553B-1830-4733-9FE2-26ED1ABE7996/knightpass-app.app/www/index.html#/tab/dash
+2015-04-27 20:43:17.481 knightpass-app[20635:696330] Terminating since there is no system app.
+2015-05-06 19:47:07.892 knightpass-app[4313:501549] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Data/Application/15BA45FE-96D1-4B9B-8A25-2305278D8ADB/Library/Cookies/Cookies.binarycookies
+2015-05-06 19:47:08.140 knightpass-app[4313:501549] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-06 19:47:08.140 knightpass-app[4313:501549] Multi-tasking -> Device: YES, App: YES
+2015-05-06 19:47:08.155 knightpass-app[4313:501549] Unlimited access to network resources
+2015-05-06 19:47:08.450 knightpass-app[4313:501549] [CDVTimer][keyboard] 0.053942ms
+2015-05-06 19:47:08.450 knightpass-app[4313:501549] [CDVTimer][TotalPluginStartup] 0.227988ms
+2015-05-06 19:47:08.697 knightpass-app[4313:501549] Resetting plugins due to page load.
+2015-05-06 19:47:09.103 knightpass-app[4313:501549] Finished load of: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Bundle/Application/62C0AAF0-1246-41E8-9D61-5EBF1CB63AFE/knightpass-app.app/www/index.html
+2015-05-06 19:49:06.916 knightpass-app[4559:503282] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Data/Application/589631C1-784A-4651-83E4-87F09CBC76DA/Library/Cookies/Cookies.binarycookies
+2015-05-06 19:49:07.060 knightpass-app[4559:503282] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-06 19:49:07.060 knightpass-app[4559:503282] Multi-tasking -> Device: YES, App: YES
+2015-05-06 19:49:07.070 knightpass-app[4559:503282] Unlimited access to network resources
+2015-05-06 19:49:07.182 knightpass-app[4559:503282] [CDVTimer][keyboard] 0.057995ms
+2015-05-06 19:49:07.182 knightpass-app[4559:503282] [CDVTimer][TotalPluginStartup] 0.213981ms
+2015-05-06 19:49:07.246 knightpass-app[4559:503282] Resetting plugins due to page load.
+2015-05-06 19:49:07.920 knightpass-app[4559:503282] Finished load of: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Bundle/Application/AD2E6786-89D9-4B0B-9A8A-6EED67C9F494/knightpass-app.app/www/index.html
+2015-05-06 19:50:38.392 knightpass-app[4969:504709] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Data/Application/AD525B23-560B-4B98-AA04-8D213761BE9E/Library/Cookies/Cookies.binarycookies
+2015-05-06 19:50:38.550 knightpass-app[4969:504709] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-06 19:50:38.551 knightpass-app[4969:504709] Multi-tasking -> Device: YES, App: YES
+2015-05-06 19:50:38.562 knightpass-app[4969:504709] Unlimited access to network resources
+2015-05-06 19:50:38.685 knightpass-app[4969:504709] [CDVTimer][keyboard] 0.056028ms
+2015-05-06 19:50:38.685 knightpass-app[4969:504709] [CDVTimer][TotalPluginStartup] 0.213981ms
+2015-05-06 19:50:38.744 knightpass-app[4969:504709] Resetting plugins due to page load.
+2015-05-06 19:50:39.417 knightpass-app[4969:504709] Finished load of: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Bundle/Application/E4823395-C899-440C-A90D-8B6C97030BB3/knightpass-app.app/www/index.html#/login
+2015-05-06 19:51:33.407 knightpass-app[5203:505709] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Data/Application/6F3B65E9-999B-41C1-9B0B-08E19303BE7C/Library/Cookies/Cookies.binarycookies
+2015-05-06 19:51:33.544 knightpass-app[5203:505709] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-06 19:51:33.545 knightpass-app[5203:505709] Multi-tasking -> Device: YES, App: YES
+2015-05-06 19:51:33.555 knightpass-app[5203:505709] Unlimited access to network resources
+2015-05-06 19:51:33.669 knightpass-app[5203:505709] [CDVTimer][keyboard] 0.115991ms
+2015-05-06 19:51:33.670 knightpass-app[5203:505709] [CDVTimer][TotalPluginStartup] 0.437021ms
+2015-05-06 19:51:33.731 knightpass-app[5203:505709] Resetting plugins due to page load.
+2015-05-06 19:51:34.402 knightpass-app[5203:505709] Finished load of: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Bundle/Application/456DEA47-E8DC-48CD-9B41-23FCD889D39A/knightpass-app.app/www/index.html#/login
+2015-05-06 20:20:51.847 knightpass-app[5203:510775] Communications error: <OS_xpc_error: <error: 0x2d525f4> { count = 1, contents =
+	"XPCErrorDescription" => <string: 0x2d5283c> { length = 22, contents = "Connection interrupted" }
+}>
+2015-05-06 20:20:51.876 knightpass-app[5203:510825] Terminating since there is no system app.
+2015-05-06 20:21:01.211 knightpass-app[5460:511530] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Data/Application/145F3551-715F-4C3D-9E90-77AA0807F0B1/Library/Cookies/Cookies.binarycookies
+2015-05-06 20:21:01.366 knightpass-app[5460:511530] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-06 20:21:01.366 knightpass-app[5460:511530] Multi-tasking -> Device: YES, App: YES
+2015-05-06 20:21:01.377 knightpass-app[5460:511530] Unlimited access to network resources
+2015-05-06 20:21:01.483 knightpass-app[5460:511530] [CDVTimer][keyboard] 0.090003ms
+2015-05-06 20:21:01.483 knightpass-app[5460:511530] [CDVTimer][TotalPluginStartup] 0.357985ms
+2015-05-06 20:21:01.544 knightpass-app[5460:511530] Resetting plugins due to page load.
+2015-05-06 20:21:01.972 knightpass-app[5460:511530] Finished load of: file:///Users/bmetzger/Library/Developer/CoreSimulator/Devices/4C395D03-E39E-4328-A930-CA2D6B184D91/data/Containers/Bundle/Application/813DA948-BCD2-47A8-AD1B-13DE520C8947/knightpass-app.app/www/index.html#/login

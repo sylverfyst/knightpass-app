@@ -1,0 +1,26 @@
+{
+    "users": {
+        "sylverfyst@gmail,com": {
+            "class": "sword",
+            "Str": "2",
+            "Def": "2",
+            "Mag": "2",
+            "Luc": "1",
+            "Spd": "2",
+            "xp": "0",
+            "lvl": "1",
+            "nextlvl": "100"
+        },
+        "bfm9@njit,edu": {
+            "class": "axe",
+            "Str": "2",
+            "Def": "1",
+            "Mag": "2",
+            "Luc": "2",
+            "Spd": "2",
+            "xp": "0",
+            "lvl": "1",
+            "nextlvl": "100"
+        }
+    }
+}

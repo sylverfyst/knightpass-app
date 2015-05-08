@@ -1,0 +1,23 @@
+<ion-view view-title="Stats" class="tab-view">
+    <h1>Stats</h1>
+    <ion-content>
+    <img ng-src="{{image.src}}" />
+    <div style="background-image: url('/img/statbox.png');background-color:#2bb8b8;background-size:100%;background-repeat: no-repeat;padding-bottom:10%;margin:3%;">
+        <h3 style="display:inline-block;padding-left:2%;color:#ffc900;">{{lvl}}</h3><h3 style="display:inline-block;padding-left:8%;color:#ffc900;">{{xp}}</h3>
+            <br />
+        <ul style="display: inline-block;font-size: 18px;vertical-align: top;padding-left: 6%;">
+            <li style="list-style-type:none;">{{str}}</li>
+            <li style="list-style-type:none;">{{def}}</li>
+            <li style="list-style-type:none;">{{spd}}</li>
+        </ul>
+        <ul style="display: inline-block;font-size: 18px;vertical-align: top;padding-left: 8%;">
+                <li style="list-style-type:none;font-size: 18px;">{{mag}}</li>
+            <li style="list-style-type:none;">{{luc}}</li>
+        </ul>
+    </div>
+    <div>
+        <img src={{images}} style="width: 45%; margin-left: 25%;margin-top:0;position:absolute;"/>  
+        <img src="img/ground.png" style="width:100%;z-index:-1;padding:0;position:relative;margin-top:35%;"/>
+    </div>
+    </ion-content>
+</ion-view>

@@ -1,0 +1,19 @@
+/* Empty. Add your own CSS if you like */
+@font-face {
+    font-family: "PressStart2P";
+    src: url(www/lib/ionic/fonts/PressStart2P.ttf)
+}
+h1, h2, h3, h4, h5, h6, p, .h1, .h2, .h3, .h4, .h5, .h6 .item, .item-divider{
+    color : #e94e59;
+    font-family: 'PressStart2P';
+}
+ul, li, .ul, .ui {
+    color: #ffc900; 
+    font-family: 'PressStart2P';
+}
+.logo {
+    width:100%;   
+}
+.tab-view {
+    background-color: #2bb8b8;   
+}
